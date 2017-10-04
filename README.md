@@ -1,4 +1,4 @@
-# fortune-teller
+# Fortune Teller
 In this project, we will be working with variables and concatenating multiple variables to formulate a string. 
 
 ## Prerequisites
