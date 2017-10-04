@@ -26,7 +26,7 @@ To complete this project you will need the following:
 
 
 ## Stretch Goals
-### Create Fortune Age Calculator
+### Fortune Age Calculator
 - Store your birth year in a variable.
 - Store a future year in a variable.
 - Calculate your 2 possible ages for that year based on the stored values.
