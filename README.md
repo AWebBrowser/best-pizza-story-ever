@@ -41,7 +41,7 @@ Next you have to bake it in a very hot {kitchen appliance}. When it is done, cut
 into {number} slices. My favorite is {food} pizza. If I could, I would eat it every {day of the week}.
 ```
 Note: 
-  If you're not sure or have forgotten what an adjective or noun is, please Google search them. 
+  Google `noun` and/or `adjective` if you forgot what they are. 
 
 ## Stretch Goals
 - Create a CSS page
