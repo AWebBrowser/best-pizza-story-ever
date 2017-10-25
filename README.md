@@ -17,8 +17,8 @@ To complete this project you will need the following:
   - Sublime Text
 
 ## Your Challenge
-1. Create and link HTML file index.html and a Javascript file app.js.
-2. In your `index.html`, under the opening `<body>` tag, create `<h1></h1>` tags with the content *Best Pizza Story Ever*, and add an ID attribute of `title`.
+1. Create and link HTML file `index.html` and a Javascript file `app.js`.
+2. In your `index.html`, under the opening `<body>` tag, create `<h1></h1>` tags with the content **Best Pizza Story Ever**, and add an ID attribute of `title`.
 3. Below the `<h1></h1>` that you just created, add `<p></p>` tags, with no content, and add an ID attribute of `result`
 4. In your `app.js`, assign a value to EACH the following variables:
     - adjective
@@ -34,11 +34,13 @@ To complete this project you will need the following:
 
 5. Create a new variable called myStory and assign it to the paragraph below. Plug in your variables in the appropriate areas.
 
-```Pizza was invented by a {ADJECTIVE} chef named {NAME}.
+```
+Pizza was invented by a {ADJECTIVE} chef named {NAME}.
 To make pizza, you need to take a lump of {NOUN}. You mold it into a {SHAPE}.
 Then you add {FAVORITE SAUCE} with a handful of {FAVORITE TOPPING}.
 Next you have to bake it in a very hot {KITCHEN APPLIANCE}. When it is done, cut it
-into {NUMBER} slices. My favorite is {FOOD} pizza. If I could, I would eat it every {DAY OF THE WEEK}.```
+into {NUMBER} slices. My favorite is {FOOD} pizza. If I could, I would eat it every {DAY OF THE WEEK}.
+```
 
 6. Get the element with the ID of `result` from your HTML page, then assign it the myStory variable. Your story should now display on your HTML page.
 
