@@ -20,8 +20,7 @@ To complete this project you will need the following:
 1. Create and link HTML file `index.html` and a Javascript file `app.js`.
 2. In your `index.html`, create `<h1></h1>` tag and add ID attribute of `Best Pizza Story Ever`.
 3. In your `app.js`, assign a value to the following variables: 
-    - adjective
-    - nationality 
+    - adjective 
     - name
     - noun
     - shape
@@ -31,10 +30,10 @@ To complete this project you will need the following:
     - number
     - food
     - day of the week
-4. Output your stor using the DOM with the following: 
+4. Output your story using the DOM with the following: 
 
 ```
-Pizza was invented by a {adjective} {nationality} chef named {name}.
+Pizza was invented by a {adjective} chef named {name}.
 To make pizza, you need to take a lump of {noun}. You mold it into a {shape}. 
 Then you add {favorite sauce} with a handful of {favorite topping}.
 Next you have to bake it in a very hot {kitchen appliance}. When it is done, cut it
