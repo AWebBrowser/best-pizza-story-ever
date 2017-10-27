@@ -17,7 +17,7 @@ To complete this project you will need the following:
   - Sublime Text
 
 ## Your Challenge
-1. Create and link HTML file `index.html` and a Javascript file `app.js`.
+1. Create HTML file `index.html` and link to a Javascript file `app.js`.
 2. In your `index.html`, under the opening `<body>` tag, create `<h1></h1>` tags with the content **Best Pizza Story Ever**, and add an ID attribute of `title`.
 3. Below the `<h1></h1>` that you just created, add `<p></p>` tags, with no content, and add an ID attribute of `result`
 4. In your `app.js`, assign a value to EACH the following variables:
